@@ -1,3 +1,3 @@
 # sim-activator-ms
 A sample microservice Application
-Runs at 8641 port.
+1. Eureka runs at 8761 port.
